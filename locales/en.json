@@ -1,3 +1,21 @@
 {
-  "Hash": "Hash"
+	"Hash": "Hash",
+	"Blockchain Demo": "Blockchain Demo",
+	"Block": "Block",
+	"Blockchain": "Blockchain",
+	"Distributed": "Distributed",
+	"Tokens": "Tokens",
+	"Coinbase": "Coinbase",
+	"Data": "Data",
+	"Nonce": "Nonce",
+	"Mine": "Mine",
+	"Peer": "Peer",
+	"Tx": "Tx",
+	"$": "$",
+	"From": "From",
+	"Prev": "Prev",
+	"Distributed Blockchain": "Distributed Blockchain",
+	"Blockchain App": "Blockchain App",
+	"Blockchain App on AIHPC": "Blockchain App on AIHPC",
+	"Blockchain on AIHPC": "Blockchain on AIHPC"
 }
