@@ -56,7 +56,7 @@ http://localhost:3000
 
 REST API and Console Util for AIHPC cloud
 
-...
+```
 ~/blockchain-demo/public/javascripts $ vi www_hashsalt.js
 //REST API Usage: 
 //1 start API REST server: node www_hashsalt.js
