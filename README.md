@@ -64,7 +64,7 @@ REST API and Console Util for AIHPC cloud
 
 ~/blockchain-demo/public/javascripts $ vi call_hashsalt_api.js
 //Console Usage: node call_hashsalt_api.js data salt
-...
+```
 
 
 ## Send Thanks
