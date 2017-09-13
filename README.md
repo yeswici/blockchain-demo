@@ -58,12 +58,12 @@ REST API and Console Util for AIHPC cloud
 
 ```
 ~/blockchain-demo/public/javascripts $ vi www_hashsalt.js
-//REST API Usage: 
-//1 start API REST server: node www_hashsalt.js
-//2 web: http://localhost:3001/?data=123&salt=456
+REST API Usage: 
+1 start API REST server: node www_hashsalt.js
+2 web: http://localhost:3001/?data=123&salt=456
 
 ~/blockchain-demo/public/javascripts $ vi call_hashsalt_api.js
-//Console Usage: node call_hashsalt_api.js data salt
+Console Usage: node call_hashsalt_api.js data salt
 ```
 
 
