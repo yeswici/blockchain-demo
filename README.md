@@ -4,7 +4,7 @@ Blockchain Bootstrap Server (BBS) and APIs on AIHPC cloud to secure sensitive/AI
 ## Setup on AIHPC GovCloud
 Launch an AIHPC cloud instance:
 
-For industrial users, you may go to the typical AWS marketplace at https://aws.amazon.com/marketplace/pp/B01JJ31R8C to launch an EC2 instance of the AIHPC cloud.
+For industrial users, you may go to the AWS marketplace at https://aws.amazon.com/marketplace/pp/B01JJ31R8C to launch an EC2 instance of the AIHPC cloud.
  
 For GovCloud users, in the EC2 launch site of AWS GovCloud management console, you may search the GovCloud marketplace for “AIHPC” and launch an AIHPC server in the GovCloud (US) region. AIHPC is certified on regulated workload and sensitive data by AWS GovCloud for U.S. persons thus works best for U.S. government users.
 
