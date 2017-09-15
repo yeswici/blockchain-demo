@@ -36,7 +36,7 @@ Point a web browser at the demo:
 http://localhost:3000
 ```
 
-## REST API and Console Util for Blockchain Security on AIHPC cloud
+## REST API and Console Util for Blockchain Security on AIHPC Cloud
 
 ```
 ~/blockchain-demo/public/javascripts $ vi www_hashsalt.js
