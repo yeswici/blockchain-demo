@@ -36,7 +36,7 @@ Point a web browser at the demo (replace localhost with IP of AIHPC GovCloud):
 http://localhost:3000
 ```
 
-## BBS Server, REST API and Console Util for Blockchain Security on AIHPC GovCloud
+## BBS Server for Blockchain Security on AIHPC GovCloud
 
 REST API by the BBS server - from the GovCloud SSH terminal:
 ```
