@@ -8,7 +8,7 @@ For industrial users, you may go to the typical AWS marketplace at https://aws.a
  
 For GovCloud users, in the EC2 launch site of AWS GovCloud management console, you may search the GovCloud marketplace for “AIHPC” and launch an AIHPC server in the GovCloud (US) region. AIHPC is certified on regulated workload and sensitive data by AWS GovCloud for U.S. persons thus works best for U.S. government users.
 
-Get the code:
+Get the code after SSH into the EC2 instance:
 
 ```
 git clone https://github.com/yeswici/blockchain-demo.git
