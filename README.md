@@ -1,5 +1,5 @@
 # Blockchain Bootstrap on AIHPC
-Blockchain Bootstrap Server and APIs on AIHPC cloud to secure AI data with hash and salt. Details in the Amazon training book at https://www.amazon.com/dp/1549688766
+Blockchain Bootstrap Server and APIs on AIHPC cloud to secure AI data with hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
 
 ## Setup
 Launch an AIHPC cloud instance
