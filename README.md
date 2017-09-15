@@ -17,8 +17,12 @@ git clone https://github.com/yeswici/blockchain-demo.git
 Install dependencies:
 
 ```
-cd blockchain-demo
-npm install
+	$ cd blockchain-demo/
+	$ sudo apt-get update
+	$ sudo apt-get install npm 
+	$ sudo apt-get install nodejs
+	$ sudo ln -s /usr/bin/nodejs /usr/bin/node
+	$ npm install
 ```
 Run the server:
 
