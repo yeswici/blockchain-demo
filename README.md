@@ -1,18 +1,11 @@
-# Blockchain Demo
-A web-based demonstration of blockchain concepts.
-
-[![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
-
-This is a very basic visual introduction to the concepts behind a blockchain. We introduce 
-the idea of an immutable ledger using an interactive web demo that is available here:
-
-http://anders.com/blockchain/
+# Blockchain Bootstrap on AIHPC
+Blockchain Bootstrap Server and APIs on AIHPC cloud to secure AI data with hash and salt
 
 ## Setup
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/yeswici/blockchain-demo.git
 ```
 
 Install dependencies:
@@ -65,7 +58,6 @@ REST API Usage:
 ~/blockchain-demo/public/javascripts $ vi call_hashsalt_api.js
 Console Usage: node call_hashsalt_api.js data salt
 ```
-
 
 ## Send Thanks
 
