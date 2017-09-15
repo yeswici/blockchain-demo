@@ -2,7 +2,7 @@
 Blockchain Bootstrap Server and APIs on AIHPC cloud to secure AI data with hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
 
 ## Setup
-Launch an AIHPC cloud instance
+Launch an AIHPC cloud instance:
 
 For industrial users, you may go to the typical AWS marketplace at https://aws.amazon.com/marketplace/pp/B01JJ31R8C to launch an EC2 instance of the AIHPC cloud.
  
