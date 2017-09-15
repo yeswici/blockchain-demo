@@ -1,5 +1,5 @@
-# Blockchain Bootstrap on AIHPC GovCloud
-Blockchain Bootstrap Server and APIs (BBSA) on AIHPC cloud to secure AI data with hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
+# Blockchain Bootstrap Server (BBS) on AIHPC GovCloud
+Blockchain Bootstrap Server (BBS) and APIs on AIHPC cloud to secure AI data with hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
 
 ## Setup on AIHPC Cloud
 Launch an AIHPC cloud instance:
