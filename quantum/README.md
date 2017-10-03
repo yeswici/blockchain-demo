@@ -1,4 +1,4 @@
-# Quantum security of Blockchain Bootstrap Security (BBS) server on AIHPC GovCloud
+# Quantum Security of Blockchain Bootstrap Security (BBS) server on AIHPC GovCloud
 Blockchain Bootstrap Server (BBS) and APIs on AIHPC cloud to secure sensitive/AI data with SHA256 hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
 
 ## Setup on AIHPC GovCloud
@@ -52,7 +52,8 @@ Console utility to secure sensitive data with hash and salt
 Console Usage: node call_hashsalt_api.js data salt
 ```
 
-## Next-gen: Quantum security of BBS Server to defend attacks from quantum computers
+## Next-gen: Quantum Security 
+Enable the BBS server to defend attacks from quantum computers
 
 ## Setup using Docker
 
