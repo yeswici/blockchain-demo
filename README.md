@@ -1,4 +1,4 @@
-# Blockchain Bootstrap Server (BBS) on AIHPC GovCloud
+# Blockchain Bootstrap Security (BBS) server on AIHPC GovCloud
 Blockchain Bootstrap Server (BBS) and APIs on AIHPC cloud to secure sensitive/AI data with SHA256 hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766
 
 ## Setup on AIHPC GovCloud
