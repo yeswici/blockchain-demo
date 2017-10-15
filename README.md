@@ -73,9 +73,9 @@ Point a web browser at the demo:
 http://localhost:3000
 ```
 
-## Can AIHPC ML algos break BBS quantum keys? 
+## Can AIHPC ML Algos break BBS Quantum Keys? 
 
-Can the ML predict next quantum key to be generated?
+Can the ML/AI predict the next quantum key to be generated?
 
 
 ## Send Thanks
