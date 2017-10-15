@@ -72,6 +72,12 @@ Point a web browser at the demo:
 ```
 http://localhost:3000
 ```
+
+## Can AIHPC ML algos break BBS quantum keys? 
+
+Can the ML predict next quantum key to be generated?
+
+
 ## Send Thanks
 
 ![](public/images/qr.png)
