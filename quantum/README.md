@@ -79,4 +79,4 @@ http://localhost:3000
 
 ![](public/images/qr.png)
 
-Bitcoin greatfully accepted: `132aTbnUoSHQtew7vhQV4czrB2nSxcmfZo`
+Bitcoin accepted: `132aTbnUoSHQtew7vhQV4czrB2nSxcmfZo`
