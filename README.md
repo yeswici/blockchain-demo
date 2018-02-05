@@ -1,5 +1,5 @@
 # Introduction
-This repo demonstrates some rudimentary technical solution details to provide basic understandings of blockchain technology and the basic concepts of quantum key defense. The implementation of the quantum key defense in the Quantum Blockchain® is far more complex than these basic concepts.
+This repo demonstrates some rudimentary technical solution details to provide basic understandings of blockchain technology and the basic concepts of quantum key defense in a simple demo blockchain. The implementation of the quantum key defense in the operational Quantum Blockchain® for AIPD® wallet is far more complex than these basic concepts.
 
 # Blockchain Bootstrap Security (BBS) server with Quantum Key Security on AIHPC GovCloud
 Blockchain Bootstrap Security (BBS) server on AIHPC cloud to secure sensitive/AI data with SHA256 hash and salt. See details in the Amazon training book at https://www.amazon.com/dp/1549688766. Contact: demo@deepcybe.com
